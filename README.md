@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AIDAR83
-- 👀 I’m interested in ...JS Html Css
-- 🌱 I’m currently learning ...JS
+- 👀 I’m interested in ... JS Html Css
+- 🌱 I’m currently learning ... JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
